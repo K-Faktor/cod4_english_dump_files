@@ -1,0 +1,23 @@
+{
+    loadMenu { "ui_mp/low health.menu" }
+    loadMenu { "ui_mp/mantlehint.menu" }
+    loadMenu { "ui_mp/cursorhints.menu" }
+    loadMenu { "ui_mp/invalidcmdhint.menu" }
+    loadMenu { "ui_mp/stance.menu" }
+    loadMenu { "ui_mp/compass_old.menu" }
+    loadMenu { "ui_mp/xpbar.menu" }
+    loadMenu { "ui_mp/scorebars.menu" }
+    loadMenu { "ui_mp/weaponinfo.menu" }
+    loadMenu { "ui_mp/fullscreenmap.menu" }
+    loadMenu { "ui_mp/dpad.menu" }
+    loadMenu { "ui_mp/amitalking.menu" }
+    loadMenu { "ui_mp/talkers.menu" }
+    loadMenu { "ui_mp/killcam.menu" }
+    loadMenu { "ui_mp/centerobituary.menu" }
+    loadMenu { "ui_mp/scorebar.menu" }
+    loadMenu { "ui_mp/gamemessages.menu" }
+    loadMenu { "ui_mp/boldgamemessages.menu" }
+    loadMenu { "ui_mp/subtitles.menu" }
+    loadMenu { "ui_mp/holdbreathhint.menu" }
+    loadMenu { "ui_mp/safeareaa.menu" }
+}
